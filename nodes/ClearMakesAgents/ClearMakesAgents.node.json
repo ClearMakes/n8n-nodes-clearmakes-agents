@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-clearmakes-agents.clearMakesAgents",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Productivity"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://agents.clearmakes.com/docs" }],
+		"primaryDocumentation": [{ "url": "https://agents.clearmakes.com/docs" }]
+	}
+}
